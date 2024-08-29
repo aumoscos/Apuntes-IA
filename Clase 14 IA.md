@@ -1,6 +1,6 @@
 ## Redes CNN: Arquitecturas
 ### VGG
-Tiene bloques y patrones de diseño, una de las más implresionantes
+Tiene bloques y patrones de diseño, una de las más impresionantes
 
 ### Residual Network
 
@@ -14,7 +14,7 @@ Despues de downsampling, se hace una operacion de upsampling## LENet
 
 ## Redes neuronales Recurrentes
 
-Se diferencian de las redes anteriores en los patrones que analizan. Especificamente estos, anailzan algo con una secuencia, puede ser una señal, o un sonido, una frase, etc.
+Se diferencian de las redes anteriores en los patrones que analizan. Especificamente estos, analizan algo con una secuencia, puede ser una señal, o un sonido, una frase, etc.
 Si entendemos un patron, podemos usarlas para predecir un valor futuro. 
 Analizamos patrones a lo largo del tiempo, por lo tanto estas redes funcionan a lo largo del tiempo.
 Se caracterizan por agregar retroalimentación, no solo son feedforward. Esto se conoce como la "memoria", o "historia"
